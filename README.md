@@ -21,4 +21,6 @@ The `data` folder includes all data for linear models
 
 ## Rendered output
 
-The rendered output for the abalone linear model [here](https://github.com/beojemann/workshop-07_spring-2026_eo/blob/main/code/abalone-example.pdf)
+The rendered output for the abalone linear model is [here](https://github.com/beojemann/workshop-07_spring-2026_eo/blob/main/code/abalone-example.pdf)
+
+The rendered output for the temp-elevation linear model is [here](https://github.com/beojemann/workshop-07_spring-2026_eo/blob/main/code/sonadora-temperature-example.pdf)
