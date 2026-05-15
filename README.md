@@ -8,16 +8,17 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+This repo provides examples of linear models using two datasets: one on abalone shell growth, and the other on temperature and elevations relationships.
 
-Whose repo is it? Who is contributing to it?
+This is a fork form the ENVS-193DS repository. 
 
 ## Data and file information
 
-What files are there?
+The `code` folder includes all code for linear models
 
-What code is there, and what does it do?
+The `data` folder includes all data for linear models
+
 
 ## Rendered output
 
-Link to the rendered output. Make sure it is a **working url**. You can test this by sharing the url with someone else to open on their computer - if it doesn't work, that means your GitHub pages set up didn't work.
+The rendered output for the abalone linear model [here](https://github.com/beojemann/workshop-07_spring-2026_eo/blob/main/code/abalone-example.pdf)
